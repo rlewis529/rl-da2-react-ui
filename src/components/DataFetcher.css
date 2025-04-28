@@ -1,0 +1,16 @@
+.heading {
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+.list-item {
+    background-color: #e3f2fd;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    font-size: 1rem;
+  }
+  
